@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Hello!&animation=fadeIn&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?text=Hello!&animation=fadeIn&fontColor=fdfca0)
 
 ![giphy7](https://github.com/Mimi-ctrl/Mimi-ctrl/assets/56686737/8076622c-ca10-4cf0-bbf8-a92b4b51c484)
 
