@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mimi-ctrl&theme=gotham&card_width=467)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mimi-ctrl&theme=transparent&text_color=6dc28f&title_color=6dc28f)
 ![giphy10](https://github.com/Mimi-ctrl/Mimi-ctrl/assets/56686737/6eecbdce-f934-4f23-a8f3-4516d4b6870b)
 
 ## Languages And Tools I'm Good At:
