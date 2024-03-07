@@ -1,5 +1,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mimi-ctrl&theme=transparent&text_color=999999&title_color=999999)
-<img src="https://github.com/Mimi-ctrl/Mimi-ctrl/assets/56686737/08a60065-f2f7-4ea7-801b-a62e1391ef00" alt="giphy12" width="200">
+<img src="https://github.com/Mimi-ctrl/Mimi-ctrl/assets/56686737/0060d7bc-fee0-4095-a10a-5e43f373ba0b" alt="giphy11" width="200">
 
 
 ## Languages And Tools I'm Good At:
