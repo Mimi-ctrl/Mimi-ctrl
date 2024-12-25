@@ -1,8 +1,56 @@
-# Hello World!
+# Hello World! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mimi-ctrl&theme=transparent&text_color=999999&title_color=999999)
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250">
+```javascript
+const levelOptions = ["Beginner", "Intermediate", "Good", "Very Good", "Excellent"];
+const interestOptions = ["Low", "Medium", "High", "Very High"];
 
-## Languages And Tools:
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=30 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height=30 />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=30 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=30 />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=30 />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height=30 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=30 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=30 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height=30 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height=30 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height=30  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height=30 /> <img src="https://github.com/Mimi-ctrl/Mimi-ctrl/assets/56686737/0e7ee7da-1d81-4cac-be19-3ad8962559fd" height=30 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height=30 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height=30 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height=30 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height=30 />
+const laura = {
+  name: "Laura",
+  pronouns: ["she", "her"],
+  skills: {
+    programmingLanguages: [
+      { name: "Python", level: levelOptions[4], currentlyLearning: false },
+      { name: "JavaScript", level: levelOptions[2], currentlyLearning: true  },
+      { name: "TypeScript", level: levelOptions[0], currentlyLearning: true },
+      { name: "HTML", level: levelOptions[3], currentlyLearning: false },
+      { name: "CSS", level: levelOptions[3], currentlyLearning: false },
+      { name: "Node.js", level: levelOptions[2], currentlyLearning: true },
+    ],
+    toolsAndTechnologies: [
+      { name: "React", level: levelOptions[2], currentlyLearning: true },
+      { name: "Redux", level: levelOptions[0], currentlyLearning: true },
+      { name: "MongoDB", level: levelOptions[2], currentlyLearning: true },
+      { name: "PostgreSQL", level: levelOptions[2], currentlyLearning: false },
+      { name: "GraphQL", level: levelOptions[1], currentlyLearning: true },
+      { name: "Docker", level: levelOptions[0], currentlyLearning: true },
+      { name: "Jest", level: levelOptions[0], currentlyLearning: true },
+      { name: "Robot Framework", level: levelOptions[1], currentlyLearning: true },
+      { name: "Jenkins", level: levelOptions[1], currentlyLearning: true },
+      { name: "Groovy", level: levelOptions[1], currentlyLearning: true },
+      { name: "VS Code", level: levelOptions[4], currentlyLearning: false },
+      { name: "Linux", level: levelOptions[3], currentlyLearning: false },
+      { name: "Git", level: levelOptions[4], currentlyLearning: false },
+    ],
+  },
+  experience: [
+    {
+      role: "L1 Integration Automation Trainee",
+      company: "Nokia",
+    }
+  ],
+  education: {
+    degree: "Bachelor of Science in Computer Science",
+    university: "University of Helsinki",
+  },
+  languageSkills: {
+    Finnish: "Native language",
+    English: "Fluent"
+  },
+  interests: ["Coding", "Reading", "Traveling", "Running", "Cooking"],
+  iWantToExplore: [
+    { name: "Go", interest: interestOptions[1] },
+    { name: "Kotlin", interest: interestOptions[2] },
+  ],
+};
+```
+<p><a href="https://github.com/Mimi-ctrl" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/laura-peltonen-a7192a254/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
