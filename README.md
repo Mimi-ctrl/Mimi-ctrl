@@ -1,55 +1,50 @@
 # Hello World! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
-```javascript
-const levelOptions = ["Beginner", "Intermediate", "Good", "Very Good", "Excellent"];
-const interestOptions = ["Low", "Medium", "High", "Very High"];
+```python
+level_options = ["Beginner", "Intermediate", "Good", "Very Good", "Excellent"]
 
-const laura = {
-  name: "Laura",
-  pronouns: ["she", "her"],
-  skills: {
-    programmingLanguages: [
-      { name: "Python", level: levelOptions[4], currentlyLearning: false },
-      { name: "JavaScript", level: levelOptions[2], currentlyLearning: true  },
-      { name: "TypeScript", level: levelOptions[0], currentlyLearning: true },
-      { name: "HTML", level: levelOptions[3], currentlyLearning: false },
-      { name: "CSS", level: levelOptions[3], currentlyLearning: false },
-      { name: "Node.js", level: levelOptions[2], currentlyLearning: true },
+laura = {
+    "name": "Laura",
+    "pronouns": ["she", "her"],
+    "skills": {
+        "programming_languages": [
+            {"name": "Python", "level": level_options[4], "currently_learning": False},
+            {"name": "JavaScript", "level": level_options[1], "currently_learning": True},
+            {"name": "TypeScript", "level": level_options[0], "currently_learning": True},
+            {"name": "HTML", "level": level_options[3], "currently_learning": False},
+            {"name": "CSS", "level": level_options[3], "currently_learning": False},
+            {"name": "Node.js", "level": level_options[2], "currently_learning": True},
+        ],
+        "tools_and_technologies": [
+            {"name": "React", "level": level_options[2], "currently_learning": True},
+            {"name": "Redux", "level": level_options[0], "currently_learning": True},
+            {"name": "MongoDB", "level": level_options[2], "currently_learning": True},
+            {"name": "PostgreSQL", "level": level_options[2], "currently_learning": False},
+            {"name": "GraphQL", "level": level_options[1], "currently_learning": True},
+            {"name": "Docker", "level": level_options[0], "currently_learning": True},
+            {"name": "Jest", "level": level_options[0], "currently_learning": True},
+            {"name": "Robot Framework", "level": level_options[1], "currently_learning": True},
+            {"name": "Jenkins", "level": level_options[2], "currently_learning": True},
+            {"name": "Groovy", "level": level_options[1], "currently_learning": True},
+            {"name": "VS Code", "level": level_options[4], "currently_learning": False},
+            {"name": "Linux", "level": level_options[4], "currently_learning": False},
+            {"name": "Git", "level": level_options[4], "currently_learning": False},
+        ],
+    },
+    "experience": [
+        {
+            "role": "L1 Integration Automation Trainee",
+            "company": "Nokia",
+        }
     ],
-    toolsAndTechnologies: [
-      { name: "React", level: levelOptions[2], currentlyLearning: true },
-      { name: "Redux", level: levelOptions[0], currentlyLearning: true },
-      { name: "MongoDB", level: levelOptions[2], currentlyLearning: true },
-      { name: "PostgreSQL", level: levelOptions[2], currentlyLearning: false },
-      { name: "GraphQL", level: levelOptions[1], currentlyLearning: true },
-      { name: "Docker", level: levelOptions[0], currentlyLearning: true },
-      { name: "Jest", level: levelOptions[0], currentlyLearning: true },
-      { name: "Robot Framework", level: levelOptions[1], currentlyLearning: true },
-      { name: "Jenkins", level: levelOptions[1], currentlyLearning: true },
-      { name: "Groovy", level: levelOptions[1], currentlyLearning: true },
-      { name: "VS Code", level: levelOptions[4], currentlyLearning: false },
-      { name: "Linux", level: levelOptions[3], currentlyLearning: false },
-      { name: "Git", level: levelOptions[4], currentlyLearning: false },
-    ],
-  },
-  experience: [
-    {
-      role: "L1 Integration Automation Trainee",
-      company: "Nokia",
-    }
-  ],
-  education: {
-    degree: "Bachelor of Science in Computer Science",
-    university: "University of Helsinki",
-  },
-  languageSkills: {
-    Finnish: "Native language",
-    English: "Fluent"
-  },
-  interests: ["Coding", "Reading", "Traveling", "Running", "Cooking"],
-  iWantToExplore: [
-    { name: "Go", interest: interestOptions[1] },
-    { name: "Kotlin", interest: interestOptions[2] },
-  ],
-};
+    "education": {
+        "degree": "Bachelor of Science in Computer Science",
+        "university": "University of Helsinki",
+    },
+    "language_skills": {
+        "Finnish": "Native language",
+        "English": "Fluent",
+    },
+    "interests": ["Coding", "Reading", "Traveling", "Running", "Cooking"],
+}
 ```
