@@ -1,4 +1,4 @@
-# Hello World! 👋
+# Hello World! 
 
 ```python
 level_options = ["Beginner", "Intermediate", "Good", "Very Good", "Excellent"]
